@@ -1,4 +1,8 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] template for LWJGL3.
+
+* LWJGL 3.1.1
+* Scala 2.11.8
+* sbt 13.13
 
 Template license
 ----------------
